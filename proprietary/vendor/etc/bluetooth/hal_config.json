@@ -1,0 +1,11 @@
+{
+  "transport_type_priority": [
+    101
+  ],
+  "uart_device_port": "/dev/ttySAC18",
+  "fast_download_enabled": true,
+  "sar_backoff_high_resolution_enabled": true,
+  "accelerated_bt_on_enabled": true,
+  "reg_on_delay_ms": 100,
+  "low_power_mode_enabled": true
+}
